@@ -1,0 +1,50 @@
+
+        h1 {
+            border: 5px solid rgb(255, 230, 0);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-image: url("IMG2.jpg");
+            padding: 150px;
+            color: rgb(210, 212, 68);
+            text-align: center;
+            font-style: italic;
+            font-family: "helvetica", Times, serif;
+            text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+            font-size: 40px
+            
+           }
+
+           P {
+            border: 10px dotted rgb(130, 8, 187);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: rgb(242, 214, 255);
+            padding: 150px;
+            color: rgb(190, 0, 95);
+            text-align: vertical-align;
+            text-indent: 50px;
+            font-size: 40px;
+            font-family: Arial;
+            text-shadow: 2px 2px rgba(0, 195, 255, 0.74); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+           }
+
+           h2 {
+            border: 10px solid rgb(255, 91, 99);
+            margin-top: 100px;
+            margin-bottom: 50px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: rgb(255, 170, 181);
+            padding: 150px;
+            text-align: direction;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 40px;
+            word-spacing: 10px;
+            text-decoration: line-through;
+            color: rgb(235, 0, 51);
+           }
